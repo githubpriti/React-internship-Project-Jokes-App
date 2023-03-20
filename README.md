@@ -21,7 +21,7 @@ What I learned in this:
 ![lco](./screenshots/Web%20capture_20-3-2023_12420_localhost.jpeg)
 
 
-## [Live Project Link](http://localhost:3000/)
+## [Live Project Link](https://react-internship-project-jokes-app.vercel.app/)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
